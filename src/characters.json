@@ -1,72 +1,72 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "charName": "mario",
     "image": "http://pngimg.com/uploads/mario/mario_PNG45.png",
     "opened": false
   },
   {
-    "id": 2,
+    "id": 1,
     "charName": "luigi",
     "image": "http://pngimg.com/uploads/mario/mario_PNG36.png",
     "opened": false
   },
   {
-    "id": 3,
+    "id": 2,
     "charName": "crazydrunk",
     "image": "http://pngimg.com/uploads/mario/mario_PNG80.png",
     "opened": false
   },
   {
-    "id": 4,
+    "id": 3,
     "charName": "koopa",
     "image": "http://pngimg.com/uploads/mario/mario_PNG72.png",
     "opened": false
   },
   {
-    "id": 5,
+    "id": 4,
     "charName": "yoshi",
     "image": "http://pngimg.com/uploads/mario/mario_PNG47.png",
     "opened": false
   },
   {
-    "id": 6,
+    "id": 5,
     "charName": "paratroopax",
     "image": "http://pngimg.com/uploads/mario/mario_PNG42.png",
     "opened": false
   },
   {
-    "id": 7,
+    "id": 6,
     "charName": "mario",
     "image": "http://pngimg.com/uploads/mario/mario_PNG45.png",
     "opened": false
   },
   {
-    "id": 8,
+    "id": 7,
     "charName": "luigi",
     "image": "http://pngimg.com/uploads/mario/mario_PNG36.png",
     "opened": false
   },
   {
-    "id": 9,
+    "id": 8,
     "charName": "crazydrunk",
     "image": "http://pngimg.com/uploads/mario/mario_PNG80.png",
     "opened": false
   },
   {
-    "id": 10,
+    "id": 9,
     "charName": "koopa",
     "image": "http://pngimg.com/uploads/mario/mario_PNG72.png",
     "opened": false
   },
   {
-    "id": 11,
+    "id": 10,
     "charName": "yoshi",
     "image": "http://pngimg.com/uploads/mario/mario_PNG47.png",
     "opened": false
   },
   {
-    "id": 12,
+    "id": 11,
     "charName": "paratroopax",
     "image": "http://pngimg.com/uploads/mario/mario_PNG42.png",
     "opened": false
